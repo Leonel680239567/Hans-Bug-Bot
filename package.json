@@ -1,5 +1,5 @@
 {
-    "name": "Hans-Bug-Bot",
+    "name": "LEO VALLOR DESTRUCTION BOY",
     "version": "4.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "LEO VALLOR",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
