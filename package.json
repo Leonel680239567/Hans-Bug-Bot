@@ -1,7 +1,7 @@
 {
-    "name": "Hans-Bug-Bot",
+    "name": "LEONEL BUG BOT",
     "version": "4.0.0",
-    "description": "WhatsApp War Bot Using Nodejs",
+    "description": "WhatsApp War Bot WITH LEO Using Nodejs",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "LEO🥶",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
